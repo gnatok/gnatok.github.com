@@ -1,1 +1,15 @@
+tmp
+node_modules
+*.sass-cache
+.rvmrc
+
+# OS, Editors
+*.DS_Store
+Thumbs.db
+Icon?
+.cache
+*.sublime-*
+
+# Jekyll Static
 _site/
+_drafts

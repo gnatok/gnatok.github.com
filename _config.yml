@@ -1,0 +1,7 @@
+name: Gnatyshyn Oleksandr Page
+pygments: true
+auto: true
+server: true
+exclude:
+- README.md
+- Rakefile
